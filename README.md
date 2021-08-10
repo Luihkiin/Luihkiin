@@ -8,5 +8,5 @@
 - 😄 Além de ser apaixonado pela área de TI, também gosto de desenhar e criar animações.
 
 <div>
-   ![Snake animation](https://github.com/rafaballerini/rafaballerini/blob/output/github-contribution-grid-snake.svg)
+   
  </div>
