@@ -7,6 +7,4 @@
 - 📫 Caso queira fazer uma conexão, este é meu LinkedIn: www.linkedin.com/in/nthnysza/
 - 😄 Além de ser apaixonado pela área de TI, também gosto de desenhar e criar animações.
 
-<div>
     ![Snake animation](https://github.com/luihkiin/luihkiin/blob/output/github-contribution-grid-snake.svg)
-</div>
