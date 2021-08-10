@@ -1,4 +1,4 @@
-### Olá, seja bem-vindo
+### 👋 Olá, seja bem-vindo!
 
 - 🎓 Estou estudando o 2º semestre do curso Tecnologo em Gestão da Tecnologia da Informação.
 - 🏆 Em 2020 concluí o ensino técnico em Redes de Computadores.
